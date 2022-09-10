@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bragynator/goit-react-hw-08-phonebook/static/css/main.3ad9c0f0.css",
+    "main.js": "/bragynator/goit-react-hw-08-phonebook/static/js/main.b3580946.js",
+    "index.html": "/bragynator/goit-react-hw-08-phonebook/index.html",
+    "main.3ad9c0f0.css.map": "/bragynator/goit-react-hw-08-phonebook/static/css/main.3ad9c0f0.css.map",
+    "main.b3580946.js.map": "/bragynator/goit-react-hw-08-phonebook/static/js/main.b3580946.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ad9c0f0.css",
+    "static/js/main.b3580946.js"
+  ]
+}
